@@ -9,7 +9,7 @@ The game is played with 4 special pyramid-shaped dice. Each die has 2 of its 4 c
 Player can move his/her pieces according to the number of marked corners facing up.
                     
 
-![Logo](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/ConceptArt/IslandSurvival.jpg)
+![Logo](https://github.com/HoldMyTyr/2020CP2Project/blob/main/Art/Ur.jpg)
 
 ## Documentation: 
 *
