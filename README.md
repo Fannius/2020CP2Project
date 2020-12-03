@@ -1,5 +1,15 @@
-# 2020CP2Project
+# Programming2IndivugalProject1
 
-![logo](https://github.com/Fannius/MCSPortfolioDM/blob/master/AAimages/AboutMeHeader.jpg?raw=true)
+Royal Game of Ur is played on a board which has 20 squares in 3 rows. 
+Top and bottom rows are identical and have 6 squares each which are grouped into 4 and 2 squares. 
+Top and bottom rows belong to one player each.
+Top and bottom rows are connected by the middle row which has 8 squares.
+Each player starts with 7 pieces which are placed outside the board at the beginning.
+The game is played with 4 special pyramid-shaped dice. Each die has 2 of its 4 corners marked leaving other 2 corners unmarked.
+Player can move his/her pieces according to the number of marked corners facing up.
+                    
 
-This is very bad as I dont know what I am doing 
+![Logo](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/ConceptArt/IslandSurvival.jpg)
+
+## Documentation: 
+*
