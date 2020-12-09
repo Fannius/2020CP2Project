@@ -9,7 +9,9 @@ The game is played with 4 special pyramid-shaped dice. Each die has 2 of its 4 c
 Player can move his/her pieces according to the number of marked corners facing up.
                     
 
-![Logo](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Ur.jpg)
+![Con](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Ur.jpg)
+
+![ClassD](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Designing%20Classes_%20Individual%20Project.jpg)
 
 ## Documentation: 
 *
