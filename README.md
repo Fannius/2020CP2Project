@@ -1,5 +1,7 @@
 # Programming2IndivugalProject1
 
+![ClassD](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Designing%20Classes_%20Individual%20Project.jpg)
+
 Royal Game of Ur is played on a board which has 20 squares in 3 rows. 
 Top and bottom rows are identical and have 6 squares each which are grouped into 4 and 2 squares. 
 Top and bottom rows belong to one player each.
@@ -10,8 +12,6 @@ Player can move his/her pieces according to the number of marked corners facing 
                     
 
 ![Con](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Ur.jpg)
-
-![ClassD](https://github.com/HoldMyTyr/2020CP2Project/blob/main/art/Designing%20Classes_%20Individual%20Project.jpg)
 
 ## Documentation: 
 *
